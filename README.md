@@ -22,4 +22,5 @@ This is an example how we can make good use of BeautifulSoup module in python an
 So final conclusion about all this that get the live update of anything that we want without going again and again on the websites.
 
 Thanks
+
 Yugant Bansal
