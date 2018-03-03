@@ -14,11 +14,11 @@ to manipulate the data and hence when we run the script we will get the required
 
 I have used three python modules these are -->
 
-  *requests --> This module is used because to get the html document of the whether website.
+  * requests --> This module is used because to get the html document of the whether website.
   
-  *BeautifulSoup --> This module plays the main part as this module extracts the details that we want from the html document page.
+  * BeautifulSoup --> This module plays the main part as this module extracts the details that we want from the html document page.
   
-  *pandas --> And finally this module is used to show the details of the extracted data in the clear format.
+  * pandas --> And finally this module is used to show the details of the extracted data in the clear format.
   
 This is an example how we can make good use of BeautifulSoup module in python and make our life simpler.
 
