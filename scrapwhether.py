@@ -4,6 +4,13 @@ import requests
 
 from bs4 import BeautifulSoup
 
+'''
+Just go to https://www.weather.gov/
+Search your city name and enter into the form field
+After that you will be taken to your city weather forcast
+Copy the link and paste it into below get field
+Run the script and see your city weekly weather
+'''
 page=requests.get("https://forecast.weather.gov/MapClick.php?lat=37.7772&lon=-122.4168#.WprSqqiWbIU")
 
 soup=BeautifulSoup(page.content,"html.parser")
